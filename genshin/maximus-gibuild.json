@@ -1162,6 +1162,28 @@
       "korean": "Park Shi-yoon"
     }
   },
+  "navia": {
+  "image": "https://cdn.discordapp.com/attachments/919605617902108742/1182670178870362254/NAVIAONESHEET.png?ex=65a139ef&is=658ec4ef&hm=d224e7280b5c2f07658cca90cf3835bc518e22afeb0ea26314a09ea52e8d0f1a&",
+  "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113799/d31df39f7be156e56d53b92e3ae6a78f_5666948741822247393.mp3",
+  "description": "The current President of Spina di Rosula, who is lovely, dutiful, and a great boss.",
+  "name": "Navia",
+  "title": "Helm of the Radiant Rose",
+  "element": "Geo",
+  "weapon": "Claymore",
+  "substat": "CRIT DMG",
+  "rarity": "⭐ 5",
+  "gender": "Female ( LADY )",
+  "birthday": "August 16",
+  "constellation": "Rosa Multiflora",
+  "association": "FONTAINE",
+  "region": "Fontaine",
+  "characters_voice": {
+    "english": "Brenna Larsen",
+    "chinese": "小敢",
+    "japanese": "豊崎愛生",
+    "korean": "Jeong Hae-eun"
+  }
+},
   "neuvillette": {
     "image": "https://telegra.ph/file/8257946a4c4404a757115.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/op-public/2023/09/21/4e52f6b2332c2ca1ea638148a8703865_745344279131051500.mp3",
