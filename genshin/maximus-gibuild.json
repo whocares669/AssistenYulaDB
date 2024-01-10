@@ -285,6 +285,28 @@
       "korean": "Shin On-yu"
     }
   },
+"chevreuse": {
+  "image": "https://cdn.discordapp.com/attachments/919605617902108742/1183053715318517820/CHEVREUSESIPSIP.png?ex=65abd9a1&is=659964a1&hm=deb45049c4b2274a942d3f24afb767f43c18b3006e02a454d88bfbf8a35e4064&",
+  "voice": "https://fastcdn.hoyoverse.com/content-v2/hk4e/113800/c7e88ab6c4409e68c182f5ed6099e96a_4748435202096261831.mp3",
+  "description": "The captain of the Special Security and Surveillance Patrol, who wears justice as an ever-present seal upon her heart. Her musket shall only ever point at the guilty.",
+  "name": "Chevreuse",
+  "title": "Executor of Justice",
+  "element": "Pyro",
+  "weapon": "Polearm",
+  "substat": "HP",
+  "rarity": "⭐ 4",
+  "gender": "Female ( GIRL )",
+  "birthday": "January 10",
+  "constellation": "Sclopetum Ensiferum",
+  "association": "FONTAINE",
+  "region": "Fontaine",
+  "characters_voice": {
+    "english": "Erica Lindbeck",
+    "chinese": "潘丹妮",
+    "japanese": "下地紫野",
+    "korean": "Chae Min-ji"
+  }
+},
   "childe": {
     "image": "https://telegra.ph/file/74bac1793375109836d00.jpg",
     "voice": "https://webstatic.hoyoverse.com/upload/contentweb/2020/11/03/af757bf6a1f86c9727c503325b0c4698_2378720270954342934.mp3",
